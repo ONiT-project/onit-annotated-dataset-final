@@ -7,8 +7,8 @@ We included multi-label annotations in [ICONCLASS](https://iconclass.org/) of al
 A collection of direct links leading to the extracted images at the Austrian National Library IIIF repository are provided in the CSV/Excel files. However, the links were created during the first project year based on the IIIF image link and the coordinates of the identified images provided by the Illustration Detector. Since then, some of the books that we harvested were updated; thus, in some cases, the direct links to the original image source do not point to the correct identified image anymore. Therefore, the direct IIIF links should be used with caution. We will provide a dump of the extracted images to be downloaded shortly.
 
 This repository contains:
-* A CSV/Xcel file listing all images that we have extracted and, where identified, the annotations of nature classes present on the image;
-* A CSV/Xcel file listing all images with nature representations from the corpus with the ICONCLASS notations.
+* A CSV/Xcel file listing all images that we have extracted and, where identified, the annotations of nature classes present on the image (ONiT_extracted-images_singleEditions_wAnnotations_2025-01-28);
+* A CSV/Xcel file listing all images with nature representations from the corpus with the ICONCLASS notations (ONiT_D16-L19_multi-label_detailed_2025-01-28).
 
 # References
 This dataset was published in context of the paper submitted to the DSH special issue for the DH 2023 conference proceedings (currently under review).
