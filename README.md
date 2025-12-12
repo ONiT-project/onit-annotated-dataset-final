@@ -12,4 +12,19 @@ A collection of direct links leading to the extracted images at the [Austrian Na
 * A CSV/Xcel file listing all images with nature representations from the corpus with the ICONCLASS notations (ONiT_D16-L19_multi-label_detailed_2025-01-28).
 
 # References
-This dataset was published in context of the paper submitted to the DSH special issue for the DH 2023 conference proceedings (currently under review).
+This dataset was published in context of the paper submitted to the DSH special issue for the DH 2023 conference proceedings:
+```
+@article{10.1093/llc/fqaf082,
+    author = {Vignoli, Michela and Gruber, Doris and Seidl, Michael},
+    title = {Revolution or evolution? AI-driven retrieval of nature representations in historical prints},
+    journal = {Digital Scholarship in the Humanities},
+    pages = {fqaf082},
+    year = {2025},
+    month = {09},
+    abstract = {Artificial intelligence (AI) opens new possibilities for processing and analysing large, heterogeneous historical data corpora in a semi-automated way. The Ottoman Nature in Travelogues (ONiT) project applies a fine-tuned Contrastive Language–Image Pre-Training (CLIP) model for retrieving images with nature representations in digitized early book prints based on embeddings of visual features rather than on textual metadata. In this article, we present results of our work, including a curated and annotated dataset of 8,042 images of nature representations, and the CLIP-based text–image exploration tool ONiT Explorer. An evaluation of the fine-tuned model comparing it to the zero-shot model confirms the potential of vision-language models for retrieving specific contents from large image collections in the cultural heritage and digital humanities domains. While in general our fine-tuned model can retrieve more correct examples per class compared to the zero-shot model, our analysis also reveals some limitations that need to be addressed in future explorations.},
+    issn = {2055-7671},
+    doi = {10.1093/llc/fqaf082},
+    url = {https://doi.org/10.1093/llc/fqaf082},
+    eprint = {https://academic.oup.com/dsh/advance-article-pdf/doi/10.1093/llc/fqaf082/64218174/fqaf082.pdf},
+}
+```
